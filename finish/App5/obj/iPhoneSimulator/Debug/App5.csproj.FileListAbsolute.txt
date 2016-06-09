@@ -1,0 +1,10 @@
+c:\users\jensendp\documents\visual studio 2015\Projects\App5\App5\bin\iPhoneSimulator\Debug\App5.exe
+c:\users\jensendp\documents\visual studio 2015\Projects\App5\App5\bin\iPhoneSimulator\Debug\App5.pdb
+c:\users\jensendp\documents\visual studio 2015\Projects\App5\App5\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+c:\users\jensendp\documents\visual studio 2015\Projects\App5\App5\obj\iPhoneSimulator\Debug\optimized\
+c:\users\jensendp\documents\visual studio 2015\Projects\App5\App5\obj\iPhoneSimulator\Debug\optimized\Entitlements.plist
+c:\users\jensendp\documents\visual studio 2015\Projects\App5\App5\obj\iPhoneSimulator\Debug\App5.csprojResolveAssemblyReference.cache
+c:\users\jensendp\documents\visual studio 2015\Projects\App5\App5\obj\iPhoneSimulator\Debug\App5.exe
+c:\users\jensendp\documents\visual studio 2015\Projects\App5\App5\obj\iPhoneSimulator\Debug\App5.pdb
+c:\users\jensendp\documents\visual studio 2015\Projects\App5\App5\obj\iPhoneSimulator\Debug\App5.exe.mdb
+c:\users\jensendp\documents\visual studio 2015\Projects\App5\App5\bin\iPhoneSimulator\Debug\App5.exe.mdb
